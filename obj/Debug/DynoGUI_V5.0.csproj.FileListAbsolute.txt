@@ -1,0 +1,15 @@
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\bin\Debug\DynoGUI_V1.0.exe.config
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\bin\Debug\DynoGUI_V1.0.exe
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\bin\Debug\DynoGUI_V1.0.pdb
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\bin\Debug\AGauge.dll
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\obj\Debug\DynoGUI_V5.0.csprojAssemblyReference.cache
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\obj\Debug\DynoGUI_V1._0.DynoGUI.resources
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\obj\Debug\DynoGUI_V1._0.Form1.resources
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\obj\Debug\DynoGUI_V1._0.Form2.resources
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\obj\Debug\DynoGUI_V1._0.Properties.Resources.resources
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\obj\Debug\DynoGUI_V5.0.csproj.GenerateResource.cache
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\obj\Debug\DynoGUI_V5.0.csproj.CoreCompileInputs.cache
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\obj\Debug\DynoGUI_V5.0.csproj.CopyComplete
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\obj\Debug\DynoGUI_V1.0.exe
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\obj\Debug\DynoGUI_V1.0.pdb
+D:\Main Dropbox Data\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V5.0\obj\Debug\DynoGUI_V1._0.Form3.resources

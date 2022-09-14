@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VZ_Dyno_GUI", "VZ_Dyno_GUI.csproj", "{DC9E9F52-B696-4FAE-BF80-7CFA2BDB121F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20894446-65C4-4607-AA8A-0E9EE2DDE16E}"
+	ProjectSection(SolutionItems) = preProject
+		..\alglib-3.17.0.csharp.gpl\csharp\net-core\alglibnet2.dll = ..\alglib-3.17.0.csharp.gpl\csharp\net-core\alglibnet2.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC9E9F52-B696-4FAE-BF80-7CFA2BDB121F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9E9F52-B696-4FAE-BF80-7CFA2BDB121F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9E9F52-B696-4FAE-BF80-7CFA2BDB121F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9E9F52-B696-4FAE-BF80-7CFA2BDB121F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C5F6D9-0E61-40D1-B17F-3F90FF80D386}
+	EndGlobalSection
+EndGlobal

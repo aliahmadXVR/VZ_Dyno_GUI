@@ -1,0 +1,16 @@
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\bin\Debug\DynoGUI_V1.0.exe.config
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\bin\Debug\DynoGUI_V1.0.exe
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\bin\Debug\DynoGUI_V1.0.pdb
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\bin\Debug\AGauge.dll
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\obj\Debug\DynoGUI_V14.0.csproj.AssemblyReference.cache
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\obj\Debug\DynoGUI_V14.0.csproj.SuggestedBindingRedirects.cache
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\obj\Debug\DynoGUI_V1._0.DynoGUI.resources
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\obj\Debug\DynoGUI_V1._0.Form1.resources
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\obj\Debug\DynoGUI_V1._0.Form2.resources
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\obj\Debug\DynoGUI_V1._0.Form3.resources
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\obj\Debug\DynoGUI_V1._0.Properties.Resources.resources
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\obj\Debug\DynoGUI_V14.0.csproj.GenerateResource.cache
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\obj\Debug\DynoGUI_V14.0.csproj.CoreCompileInputs.cache
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\obj\Debug\DynoGUI_V14.0.csproj.CopyComplete
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\obj\Debug\DynoGUI_V1.0.exe
+D:\Ali Ahmad\Dropbox\Upwork Tasks\Dynamometer Work\Latest Code\DynoGUI_V14.0\obj\Debug\DynoGUI_V1.0.pdb
