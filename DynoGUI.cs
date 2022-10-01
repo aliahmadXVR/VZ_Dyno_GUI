@@ -517,7 +517,25 @@ namespace DynoGUI_V1._0
             to.Show();
         }
 
-
+        /**
+         * This button will send the sample_data_simulate message 
+         * to Arduino.
+         * */
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            try
+            {
+                serialPort1.Write(Serial_Data_Variables.Dyno_sample_msg);
+                Serial_Data_Variables.diagnostic_mode = false;  //This is done to tell the ProcessData Function that now Main DYno data will come instead of Sensors data//
+                Serial_Data_Variables.WheelBaseAdj_mode = false;
+                Serial_Data_Variables.dT_transmit_IN_mode = true;
+                richTextBox1.AppendText("dT transmit msg sent to Arduino-> \n");
+            }
+            catch (Exception error)
+            {
+                MessageBox.Show(error.Message);
+            }
+        }
     }
 
 }
@@ -533,7 +551,7 @@ public static class Serial_Data_Variables
     public static string dataSensor1, dataSensor2, dataSensor3, dataSensor4, dataSensor5, dataSensor6, dataSensor7, dataSensor8, dataSensor9, dataSensor10;
     public static string Dyno_start_msg = "#";
     public static string Dyno_stop_msg = "A";
-    public static string Start_dT_transmit_msg = "S";
+    public static string Dyno_sample_msg = "S";
     public static string Wheel_BaseF_Adj_msg = "W";
     public static string Wheel_BaseR_Adj_msg = "R";
 
